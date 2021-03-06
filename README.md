@@ -1,2 +1,2 @@
-# Jogo-Mau-Mau
+# Jogo Mau Mau
  Jogo de baralho Mau-Mau
